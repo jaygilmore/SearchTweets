@@ -6,7 +6,8 @@
  *  @version 1.0 
  *  @author Jay Gilmore (me@jaygilmore.ca)
  *  @description
- *  Enables you to display Twitter search results. 
+ *  Enables you to display Twitter search results and 
+ *  and control the output.
  * 
  *  @example [[!SearchTweets? &terms=`chrisbrogan` &tpl=`tweetItems`]]
  *
