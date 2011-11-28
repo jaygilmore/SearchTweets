@@ -4,8 +4,9 @@
  *  Grabs Tweets based on comma delimited list of keywords.
  *  
  *  @version 1.0 
- *  @author Jay Gilmore (collabpad.com)
- *  @description 
+ *  @author Jay Gilmore (me@jaygilmore.ca)
+ *  @description
+ *  Enables you to display Twitter search results. 
  * 
  *  @example [[!SearchTweets? &terms=`chrisbrogan` &tpl=`tweetItems`]]
  *
